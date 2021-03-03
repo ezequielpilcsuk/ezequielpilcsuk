@@ -1,4 +1,9 @@
-### Hi there 👋
+### About me 👋
+Prefered Pronouns: he/him.
+On my third year of my Computer Science Major Degree in the Federal University of Santa Catarina (UFSC).
+Currently doing Computer Organization, Computer Networks II, Databases and Calculus II classes.
+
+
 
 <!--
 **ezequielpilcsuk/ezequielpilcsuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
