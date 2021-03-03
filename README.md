@@ -1,6 +1,6 @@
 ### About me 👋
 - Pronouns: he/him.
-- On my third year of a Computer Science Major Degree in the Federal University of Santa Catarina (UFSC).
+- On my third year of a Computer Science Major in the Federal University of Santa Catarina (UFSC).
 - Currently doing Computer Organization, Computer Networks II, Databases and Calculus II classes.
 
 
