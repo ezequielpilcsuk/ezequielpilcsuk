@@ -1,8 +1,7 @@
 ### About me 👋
 - Pronouns: he/they.
-- On my third year of a Computer Science Major in the Federal University of Santa Catarina (UFSC).
-- Currently taking Computer Organization, Computer Networks II, Databases and Calculus II classes.
-
+- On my last of a Computer Science Major in the Federal University of Santa Catarina (UFSC).
+- Currently working at TrackStreet as a Junior Software Developer
 
 
 <!--
